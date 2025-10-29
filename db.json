@@ -1,0 +1,15 @@
+{
+  "administradores": [
+    { "id": 1, "nome": "João Silva", "email": "joao@exemplo.com", "labels": ["postos", "gerentes", "funcionarios"] },
+    { "id": 2, "nome": "Maria Santos", "email": "maria@exemplo.com", "labels": ["postos", "produtos"] }
+  ],
+  "gerentes": [
+    { "id": 1, "nome": "Ana Costa", "email": "ana@exemplo.com", "telefone": "(11) 99999-9999", "labels": ["Posto Shell Centro"] },
+    { "id": 2, "nome": "Carlos Mendes", "email": "carlos@exemplo.com", "telefone": "(11) 88888-8888", "labels": ["Posto Ipiranga Vila", "Posto BR Rodovia"] }
+  ],
+  "funcionarios": [
+    { "id": 1, "nome": "Pedro Oliveira", "cpf": "12345678900", "labels": ["Frentista"] },
+    { "id": 2, "nome": "Juliana Souza", "cpf": "98765432100", "labels": ["Caixa"] },
+    { "id": 3, "nome": "Felipe Torres", "cpf": "11122233344", "labels": ["Frentista"] }
+  ]
+}
